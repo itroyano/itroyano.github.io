@@ -14,26 +14,32 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 </header>
 
 <!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked the homepage content was not empty.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 3: Customize your homepage
+## Finish
 
-_Nice work setting the theme! :sparkles:_
+_Congratulations friend, you've completed this course!_
 
-You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
+<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-### :keyboard: Activity: Create your homepage
+Your blog is now live and has been deployed!
 
-1. Browse to the `index.md` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Type the content you want on your homepage. You can use Markdown formatting on this page.
-1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
-1. Commit your changes to the `my-pages` branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+Here's a recap of all the tasks you've accomplished in your repository:
+
+- You enabled GitHub Pages.
+- You selected a theme using the config file.
+- You learned about proper directory format and file naming conventions in Jekyll.
+- You created your first blog post with Jekyll!
+
+### What's next?
+
+- Keep working on your GitHub Pages site... we love seeing what you come up with!
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
